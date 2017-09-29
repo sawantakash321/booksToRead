@@ -23,6 +23,10 @@ No | Book Name
 9 | Adigal, Ilango. Silappatikaram
 10 | Aeschylus. Prometheus Bound
 11 | Alighieri, Dante. The Divine Comedy
+12 | Aquinas, Thomas. Summa Theologica
+13 | Ariosto, Ludovico. Orlando Furioso
+14 | Aristotle. De Anima
+15 | Aristotle. Metaphysics
 
 
 
