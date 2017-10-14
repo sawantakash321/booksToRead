@@ -37,6 +37,11 @@ No | Book Name
 23 | Badarayana. Brahma Sutras
 24 | Cervantes, Miguel de. Don Quixote
 25 | Chaucer, Geoffrey. The Canterbury Tales
+26 | Confucius. The Analects
+27 | Descartes, René. Principles of Philosophy
+28 | Dostoyevsky, Fyodor. The Brothers Karamzov
+29 | Dostoyevsky, Fyodor. Crime and Punishment
+30 | Dostoyevsky, Fyodor. The Idiot
 
 
 
