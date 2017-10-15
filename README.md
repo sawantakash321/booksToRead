@@ -42,11 +42,11 @@ No | Book Name
 28 | Dostoyevsky, Fyodor. The Brothers Karamzov
 29 | Dostoyevsky, Fyodor. Crime and Punishment
 30 | Dostoyevsky, Fyodor. The Idiot
-31 | 
-32 | 
-33 | 
-34 | 
-35 | 
+31 | Eco, Umberto. Il nome della rosa
+32 | . La Misteriosa fiamma della Regina Loana
+33 | Erasmus, Desiderius. The Praise of Folly
+34 | Espronceda, José de. El estudiante de Salamanca (Don Juan)
+35 | Euripides. The Bacchae
 
 
 
