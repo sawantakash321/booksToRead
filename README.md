@@ -52,6 +52,11 @@ No | Book Name
 38 | Conrad, Joseph. Heart of Darkness
 39 | Ferdowsi. Shahnameh
 40 | Ganjavi, Nizami. Panj Ganj
+41 | Gautama. Nyaya Sutras
+42 | Goethe, JWG. Faust
+43 | Gogol, Nikolai. Dead Souls
+44 | Grotius, Hugo. The Law of War and Peace
+45 | Hafez. Divan-e Hafez
 
 
 
