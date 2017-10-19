@@ -57,6 +57,11 @@ No | Book Name
 43 | Gogol, Nikolai. Dead Souls
 44 | Grotius, Hugo. The Law of War and Peace
 45 | Hafez. Divan-e Hafez
+46 | Herodotus. Histories
+47 | Hobbes, Thomas. Leviathan
+48 | Homer. The Iliad
+49 | Homer. The Odyssey
+50 | Hume, David. A Treatise of Human Nature
 
 
 
