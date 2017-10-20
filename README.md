@@ -62,6 +62,11 @@ No | Book Name
 48 | Homer. The Iliad
 49 | Homer. The Odyssey
 50 | Hume, David. A Treatise of Human Nature
+46 | Ishvarakrishna. Samkhya Karika
+47 | Jaimini. Purva Mimamsa Sutras
+48 | Kafka, Franz. The Metamorphosis
+49 | Kalidasa. Abhijñanashakuntalam
+50 | Kalidasa. Kumarasambhava
 
 
 
