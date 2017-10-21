@@ -67,7 +67,11 @@ No | Book Name
 48 | Kafka, Franz. The Metamorphosis
 49 | Kalidasa. Abhijñanashakuntalam
 50 | Kalidasa. Kumarasambhava
-
+51 | Kanada. Vaisheshika Sutra
+52 | Kautilya. The Arthashastra
+53 | Ibn Khaldun. Al Muqaddimah
+54 | Khayyam, Omar. The Rubaiyat of Omar Khayyam
+55 | Khosrow, Amir. Khamsa-e Nizami
 
 
 
