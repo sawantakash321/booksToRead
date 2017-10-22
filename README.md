@@ -72,6 +72,11 @@ No | Book Name
 53 | Ibn Khaldun. Al Muqaddimah
 54 | Khayyam, Omar. The Rubaiyat of Omar Khayyam
 55 | Khosrow, Amir. Khamsa-e Nizami
+56 | Khosrow, Amir. Wast-ul Hayat
+57 | Locke, John. Two Treatises of Government
+58 | Luo Guanzhong. Romance of the Three Kingdoms
+59 | Machiavelli, Niccolo. The Prince
+60 | Mahfouz, Naguib. The Cairo Trilogy
 
 
 
