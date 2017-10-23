@@ -76,7 +76,12 @@ No | Book Name
 57 | Locke, John. Two Treatises of Government
 58 | Luo Guanzhong. Romance of the Three Kingdoms
 59 | Machiavelli, Niccolo. The Prince
-60 | Mahfouz, Naguib. The Cairo Trilogy
+60 | Mahfouz, Naguib. The Cairo Trilogy (Palace Walk, Palace of Desire, Sugar Street)
+61 | Maimon, Moshe ben. The Guide for the Perplexed
+62 | Malory, Sir Thomas. Le Morte d’Arthur
+63 | Mann, Thomas. The Magic Mountain
+64 | Manzoni, Alessandro. I Promessi Sposi
+65 | Marx, Karl. Das Kapital
 
 
 
