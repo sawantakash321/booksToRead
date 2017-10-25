@@ -82,7 +82,11 @@ No | Book Name
 63 | Mann, Thomas. The Magic Mountain
 64 | Manzoni, Alessandro. I Promessi Sposi
 65 | Marx, Karl. Das Kapital
-
+66 | Milton, John. Paradise Lost
+67 | Milton, John. Paradise Lost
+68 | More, Thomas. Utopia
+69 | al-Mulk, Nizam. Siyasatnama
+70 | Nietzsche, Friedrich. Beyond Good and Evil: Prelude to a Philosophy of the Future
 
 
 ##(I'll keep updating this list every week)
