@@ -87,6 +87,11 @@ No | Book Name
 68 | More, Thomas. Utopia
 69 | al-Mulk, Nizam. Siyasatnama
 70 | Nietzsche, Friedrich. Beyond Good and Evil: Prelude to a Philosophy of the Future
+66 | Ovid. Metamorphoses
+67 | Petrarch. De vita solitaria (The Solitary Life)
+68 | Petrarch. Il Canzoniere (Song Book)
+69 | Plato. Apology
+70 | Plato. Meno
 
 
 ##(I'll keep updating this list every week)
