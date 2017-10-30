@@ -92,6 +92,11 @@ No | Book Name
 68 | Petrarch. Il Canzoniere (Song Book)
 69 | Plato. Apology
 70 | Plato. Meno
+71 | Plato. The Republic
+72 | Plotinus. The Enneads
+73 | Rumi, Jalaluddin. Masnavi-e Manavi
+74 | Ibn Rushd. The Incoherence of the Incoherence
+75 | Saadi. Gulistan
 
 
 ##(I'll keep updating this list every week)
