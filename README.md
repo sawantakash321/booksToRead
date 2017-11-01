@@ -97,6 +97,11 @@ No | Book Name
 73 | Rumi, Jalaluddin. Masnavi-e Manavi
 74 | Ibn Rushd. The Incoherence of the Incoherence
 75 | Saadi. Gulistan
+76 | Shakespeare, William. Hamlet
+77 | Shakespeare, William. King Lear
+78 | Shakespeare, William. Macbeth
+79 | Solzhenitsyn, Alexander. The First Circle
+80 | Sophocles. Oedipus Rex
 
 
 ##(I'll keep updating this list every week)
