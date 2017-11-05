@@ -102,8 +102,8 @@ No | Book Name
 78 | Shakespeare, William. Macbeth
 79 | Solzhenitsyn, Alexander. The First Circle
 80 | Sophocles. Oedipus Rex
-81 | . Oedipus at Colonus
-82 | . Antigone
+81 | Sophocles. Oedipus at Colonus
+82 | Sophocles. Antigone
 83 | Spinoza, Benedict de. Ethics
 84 | Smith, Adam. The Wealth of Nations
 85 | Tasso, Torquato. Gerusalemme liberata (Jerusalem Delivered)
