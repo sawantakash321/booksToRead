@@ -107,6 +107,9 @@ No | Book Name
 83 | Spinoza, Benedict de. Ethics
 84 | Smith, Adam. The Wealth of Nations
 85 | Tasso, Torquato. Gerusalemme liberata (Jerusalem Delivered)
-
-
+86 | Thucydides. The History of the Peloponnesian War
+87 | Toynbee, Arnold. A Study of History
+88 | Ibn Tufayl. Hayy ibn Yaqzan
+89 | Valmiki. The Ramayana
+90 | Virgil. The Aeneid
 ##(I'll keep updating this list every week)
